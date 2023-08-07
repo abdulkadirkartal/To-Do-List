@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  border: 10px solid grey;
+  background-color: rgb(43, 59, 65);
+  width: 50%;
+  height: auto;
+  margin: auto;
+  margin-top: 40px;
+  font-size: large;
+}
+input {
+  color: lightgray;
+  background-color: grey;
+  font-size: large;
+  height: 40px;
+  width: auto;
+  font-size: large;
+}
+button {
+  color: white;
+  background-color: rgb(244, 244, 244);
+  font-size: 20px;
+  border-radius: 15px;
+  border: 0px solid;
+  background-color: grey;
+}
+ul {
+  color: white;
+  width: 100%;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+}
+li {
+  color: rgb(0, 0, 0);
+  border: 1px solid;
+  padding: 5px 20px;
+  width: 350px;
+  text-align: start;
+  align-items: center;
+  list-style-type: circle;
+  color: white;
+  margin-top: 10px;
+}
